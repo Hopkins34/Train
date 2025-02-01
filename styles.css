@@ -1,0 +1,25 @@
+html {
+    background-color: lemonchiffon;
+}
+
+body {
+    text-align: center;
+}
+
+.Output__wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Output__wrapper__img {
+    height: 100px;
+    width: auto;
+}
+
+.Output__ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    overflow-x: auto;
+}
